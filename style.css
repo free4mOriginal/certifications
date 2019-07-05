@@ -1,0 +1,47 @@
+body {
+    background-color: #f0f0f2;
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1.6rem;
+    color: #353535;
+  background: linear-gradient(to bottom, #ccc, #fff 30%);
+    background-repeat: no-repeat;
+}
+
+div {
+    background-color: #fff;
+    width: 400px;
+    margin: 5em auto;
+    padding: 50px;
+    background-color: #fff;
+    border-radius: 1em;
+}
+
+a:link, a:visited {
+    color: #38488f;
+    text-decoration: none;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+h1,h3 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+
+h1 {
+    margin: 20rem 0 1rem;
+    font-size: 3rem;
+}
+
+h3 {
+    font-weight: normal;
+    font-size: 1.4rem;
+}
